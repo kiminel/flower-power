@@ -1,6 +1,11 @@
 const FlowerVideo = () => {
   return (
-    <video className="h-full w-full object-cover animate-clip-from-top-animation" autoPlay muted loop>
+    <video
+      className="h-full w-full object-cover animate-clip-from-top-animation shadow-2xl"
+      autoPlay
+      muted
+      loop
+    >
       <source src="/video/flower-power.mp4" type="video/mp4" />
     </video>
   );

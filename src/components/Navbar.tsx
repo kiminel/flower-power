@@ -4,10 +4,10 @@ import { animationStart, reveal } from "../utils/animation";
 const Navbar = () => {
   return (
     <motion.div
-      initial={{ opacity: 0 }}
-      animate={{ opacity: 1 }}
+      initial={{ height: "0px" }}
+      animate={{ height: "85px" }}
       transition={{ delay: animationStart, duration: 0.5 }}
-      className="w-full flex items-center justify-around h-80px top-0 z-100"
+      className="w-full flex items-center justify-around top-0 z-100"
     >
       <img
         src="/logo-slogan.png"
