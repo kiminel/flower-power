@@ -1,17 +1,18 @@
 # Flower Power Spa 🌺
 
-## Project
-
-This is a basic brochure website for a spa. The goal of this demo project is to play around with animation and video capabilities.
-
-## Hosting
+### Hosted Link:
 
 [Flower Power Spa](https://flower-power-spa.netlify.app/)
 
-## Start up
+### Local Startup
 
     npm i
+    npm run build
     npm run dev
+
+## About
+
+This is a basic brochure website for a spa. The goal of this demo project is to play around with animation and video capabilities.
 
 ## Tech stack
 
@@ -21,9 +22,10 @@ This is a basic brochure website for a spa. The goal of this demo project is to 
 - [Vite](https://vitejs.dev/)
 - [WindiCSS](https://windicss.org/)
 - [framer-motion](https://www.framer.com/motion/)
-- [Netlify Hosting](https://app.netlify.com/)
 
-## Future improvements
+### Future plans:
 
-There is room for expansion (e.g. adding pages to the dead-links) <br/>
-Additional pages can be added with more animation experiments, matching the project aesthetic.
+There is room for expansion (e.g. adding links to header titles) <br/>
+- Add Packages Page with image & animation effects
+- Creative About Page
+- Contact Page -> Link to Portfolio
