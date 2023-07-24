@@ -1,7 +1,7 @@
 const FlowerVideo = () => {
   return (
     <video
-      className="h-full w-full object-cover animate-clip-from-top-animation shadow-2xl"
+      className="h-100vh w-full object-cover animate-clip-from-top-animation shadow-2xl"
       autoPlay
       muted
       loop

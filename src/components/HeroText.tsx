@@ -24,7 +24,7 @@ const HeroText = () => {
         initial="hiddenVariant"
         animate="revealedVariant"
         transition={{ delay: animationStart + 1.2, duration: 0.5 }}
-        className="mb-30px w-1/4 <lg:w-1/3 <md:w-1/2 text-14px leading-tight"
+        className="mb-30px w-1/4 <lg:w-1/3 <md:w-full <md:p-4 text-14px leading-tight"
       >
         Welcome to Flower Power Spa, where the harmonious dance of strength and
         gentleness awaits you. Step into a world of tranquility and
