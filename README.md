@@ -6,7 +6,7 @@ This is a basic brochure website for a spa. The goal of this demo project is to 
 
 ## Hosting
 
-[Flower Power Spa]()
+[Flower Power Spa](https://flower-power-spa.netlify.app/)
 
 ## Start up
 
@@ -21,6 +21,7 @@ This is a basic brochure website for a spa. The goal of this demo project is to 
 - [Vite](https://vitejs.dev/)
 - [WindiCSS](https://windicss.org/)
 - [framer-motion](https://www.framer.com/motion/)
+- [Netlify Hosting](https://app.netlify.com/)
 
 ## Future improvements
 
