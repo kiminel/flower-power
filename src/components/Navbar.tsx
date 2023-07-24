@@ -30,25 +30,25 @@ const Navbar = () => {
         <motion.a
           href="/"
           variants={reveal}
-          className="cursor-pointer hover:bg-fill no-underline text-current"
+          className="cursor-pointer hover:bg-white p-2 rounded-full no-underline text-current"
         >
           Home
         </motion.a>
         <motion.div
           variants={reveal}
-          className="cursor-pointer hover:bg-fill no-underline text-current"
+          className="cursor-pointer hover:bg-white p-2 rounded-full no-underline text-current"
         >
           Packages
         </motion.div>
         <motion.div
           variants={reveal}
-          className="cursor-pointer hover:bg-fill no-underline text-current"
+          className="cursor-pointer hover:bg-white p-2 rounded-full no-underline text-current"
         >
           About
         </motion.div>
         <motion.div
           variants={reveal}
-          className="cursor-pointer hover:bg-fill no-underline text-current"
+          className="cursor-pointer hover:bg-white p-2 rounded-full no-underline text-current"
         >
           Contact
         </motion.div>
