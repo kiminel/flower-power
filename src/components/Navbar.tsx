@@ -34,27 +34,24 @@ const Navbar = () => {
         >
           Home
         </motion.a>
-        <motion.a
-          href="/"
+        <motion.div
           variants={reveal}
           className="cursor-pointer hover:bg-fill no-underline text-current"
         >
           Packages
-        </motion.a>
-        <motion.a
-          href="/"
+        </motion.div>
+        <motion.div
           variants={reveal}
           className="cursor-pointer hover:bg-fill no-underline text-current"
         >
           About
-        </motion.a>
-        <motion.a
-          href="/"
+        </motion.div>
+        <motion.div
           variants={reveal}
           className="cursor-pointer hover:bg-fill no-underline text-current"
         >
           Contact
-        </motion.a>
+        </motion.div>
       </motion.div>
     </motion.div>
   );
